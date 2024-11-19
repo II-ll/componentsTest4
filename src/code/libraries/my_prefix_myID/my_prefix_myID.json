@@ -2,6 +2,6 @@
     "api": null,
     "dependencies": "",
     "description": "Component description",
-    "name": "{{component_prefix}}_{{component_id}}",
+    "name": "my_prefix_myID",
     "visibility": "system"
 }
